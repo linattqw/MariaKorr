@@ -1,0 +1,28 @@
+@import url(ofont.ru_Ruthless\ Sketch.ttf);
+
+header{
+    background-color: lightpink;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+@font-face{
+    font-family: "ruthless";
+    src: url(ofont.ru_Ruthless\ Sketch.ttf);
+}
+
+.header-masha{
+    font-family: "ruthless";
+    color: lightcoral;
+    font-size: 60px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.d-grid{
+    position: relative;
+    margin-top: ;
+    margin-left: 390px;
+}
